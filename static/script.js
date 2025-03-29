@@ -2,8 +2,10 @@
 const studentDB = {
   "202301": { name: "김민수", googleId: "kms01@gmail.com", googlePw: "pass1234" },
   "202302": { name: "이서연", googleId: "lsy02@gmail.com", googlePw: "pass2345" },
-  "202303": { name: "박지후", googleId: "pjh03@gmail.com", googlePw: "pass3456" }
+  "202303": { name: "박지후", googleId: "pjh03@gmail.com", googlePw: "pass3456" },
+  "20122341": { name: "홍길동", googleId: "dd@gmail.com", googlePw: "dd123" } // ✅ 추가된 부분
 };
+
 
 // 폼과 결과 영역 요소
 const form = document.getElementById('lookupForm');
