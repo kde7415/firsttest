@@ -8,8 +8,8 @@
 </head>
 <body>
   <div class="container">
-    <h1>학생 구글 계정 조회</h1>
-    
+    <h1>학생 계정 조회</h1>
+
     <form id="lookupForm">
       <label for="studentId">학번:</label>
       <input type="text" id="studentId" name="studentId" required>
@@ -20,10 +20,10 @@
       <button type="submit">조회</button>
     </form>
 
-    <div id="result" class="result-box" style="display: none;">
-      <h2>조회 결과</h2>
-      <p><strong>구글 ID:</strong> <span id="googleId"></span></p>
-      <p><strong>비밀번호:</strong> <span id="googlePw"></span></p>
+    <div id="result" class="result-box">
+      <h2>구글 계정 정보</h2>
+      <p><strong>구글 ID:</strong> <span id="googleId">조회 결과가 없습니다.</span></p>
+      <p><strong>구글 비밀번호:</strong> <span id="googlePw">조회 결과가 없습니다.</span></p>
     </div>
   </div>
 

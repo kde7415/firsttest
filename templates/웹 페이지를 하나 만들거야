@@ -1,0 +1,15 @@
+웹 페이지를 하나 만들거야
+이 페이지는 학생의 학번과 이름을 입력하면
+그에 해당하는 구글 계정(ID, PW)을 보여주는 사이트야
+일단 내가 만든 폴더 디렉토리를 알려줄게
+-teamplates
+ ㄴindex.html
+-static
+ ㄴscript.js
+ ㄴstyles.css
+
+일단 index.html에서 기본적인 인터페이스를 만들어줘
+js, css 파일은 이따가 할거니까
+일단 index.html부터 부탁해
+
+
