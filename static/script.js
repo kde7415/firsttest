@@ -6,7 +6,7 @@ const studentData = [
   { id: "202304", name: "홍길동", googleId: "pjh03@gmail.com", googlePw: "pass3411" },  
   { id: "202305", name: "김철수", googleId: "pjh03@gmail.com", googlePw: "pass3400" },  
   { id: "202306", name: "이영희", googleId: "pjh03@gmail.com", googlePw: "pass3477" },  
-  { id: "202307", name: "안철수", googleId: "pjh03@gmail.com", googlePw: "pass3445" },  
+  { id: "202307", name: "안철수", googleId: "pjh03@gmail.com", googlePw: "pass3445" }
 ];
 
 // 폼과 요소 참조
