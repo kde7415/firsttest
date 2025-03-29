@@ -10,10 +10,7 @@
 
 body {
   font-family: 'Orbitron', sans-serif;
-  background-image: url('https://images.unsplash.com/photo-1585390582864-c17520153c36?ixlib=rb-4.0.3&auto=format&fit=crop&w=1740&q=80');
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
+  background-color: #001f3f; /* 어두운 파란색 배경 */
   color: #00ffcc;
   min-height: 100vh;
   display: flex;
